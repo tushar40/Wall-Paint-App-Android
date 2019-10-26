@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:3:7-27
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:4:7-33
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:15-44
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml
+		ADDED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml:7:5-47
+		INJECTED from /Users/tushargusain/AndroidStudioProjects/PaintApp/openCVLibrary347/src/main/AndroidManifest.xml

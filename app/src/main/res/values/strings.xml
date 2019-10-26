@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Paint App</string>
+
+    <string name="menu_open">Final Image</string>
+    <string name="menu_select">Select target</string>
+    <string name="menu_cut">Process Image</string>
+    <string name="menu_photo">Take Photo</string>
+    <string name="menu_gallery">Open Gallery</string>
+    <string name="menu_color">Choose Color</string>
+    <string name="menu_texture">Choose Texture</string>
+</resources>
